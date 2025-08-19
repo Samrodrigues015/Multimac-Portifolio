@@ -1,0 +1,78 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Aug 2025 22:07:27 at http://clonemultimac.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://clonemultimac.local/ -O1 "C:\Users\HP\Desktop\Deploy\Multimac-Portifolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:10:56	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-json/wp/v2/pages/7 (from clonemultimac.local/)
+22:51:51	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-home/inovinter.png (from clonemultimac.local/)
+22:51:53	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-home/gestaoatendimento.png (from clonemultimac.local/)
+22:58:12	Warning: 	Moved Permanently for clonemultimac.local/?p=38
+22:58:12	Warning: 	File has moved from clonemultimac.local/?p=38 to http://clonemultimac.local/produtos/
+22:58:12	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-produtos/soluções2.png (from clonemultimac.local/produtos/)
+22:59:07	Warning: 	Moved Permanently for clonemultimac.local/?p=36
+22:59:07	Warning: 	File has moved from clonemultimac.local/?p=36 to http://clonemultimac.local/parceriassharp/
+22:59:07	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-parcerias/impressora1.png (from clonemultimac.local/parceriassharp/)
+22:59:08	Error: 	"Not Found" (404) at link clonemultimac.local/parceriassharp/pagina-solucoes (from clonemultimac.local/parceriassharp/)
+22:59:08	Error: 	"Not Found" (404) at link clonemultimac.local/impressoras-multifuncoes (from clonemultimac.local/parceriassharp/)
+22:59:08	Error: 	"Not Found" (404) at link clonemultimac.local/monitores-profissionais (from clonemultimac.local/parceriassharp/)
+22:59:08	Error: 	"Not Found" (404) at link clonemultimac.local/gestao-documental (from clonemultimac.local/parceriassharp/)
+22:59:08	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/paineis.css?ver=1.0.0 (from clonemultimac.local/paineis/)
+22:59:09	Warning: 	Moved Permanently for clonemultimac.local/?p=34
+22:59:09	Warning: 	File has moved from clonemultimac.local/?p=34 to http://clonemultimac.local/paineis/
+22:59:09	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-paineis/raio.svg (from clonemultimac.local/paineis/)
+22:59:10	Error: 	"Not Found" (404) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-paineis/painel.svg (from clonemultimac.local/paineis/)
+22:59:10	Warning: 	Moved Permanently for clonemultimac.local/?p=48
+22:59:10	Warning: 	File has moved from clonemultimac.local/?p=48 to http://clonemultimac.local/solucoes/
+22:59:10	Warning: 	Moved Permanently for clonemultimac.local/?p=56
+22:59:10	Warning: 	File has moved from clonemultimac.local/?p=56 to http://clonemultimac.local/videovigilancia/
+22:59:10	Warning: 	Moved Permanently for clonemultimac.local/?p=20
+22:59:10	Warning: 	File has moved from clonemultimac.local/?p=20 to http://clonemultimac.local/computing/
+22:59:10	Warning: 	Moved Permanently for clonemultimac.local/?p=24
+22:59:10	Warning: 	File has moved from clonemultimac.local/?p=24 to http://clonemultimac.local/controlo/
+22:59:10	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-controlo/technology.png (from clonemultimac.local/controlo/)
+22:59:19	Warning: 	Moved Permanently for clonemultimac.local/?p=46
+22:59:19	Warning: 	File has moved from clonemultimac.local/?p=46 to http://clonemultimac.local/software/
+22:59:19	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-software/icon4.svg (from clonemultimac.local/software/)
+22:59:20	Warning: 	Moved Permanently for clonemultimac.local/?p=12
+22:59:20	Warning: 	File has moved from clonemultimac.local/?p=12 to http://clonemultimac.local/alarme/
+22:59:20	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-alarme/residencias.png (from clonemultimac.local/alarme/)
+22:59:26	Warning: 	Moved Permanently for clonemultimac.local/?p=28
+22:59:26	Warning: 	File has moved from clonemultimac.local/?p=28 to http://clonemultimac.local/gavetasdedinheiro/
+22:59:26	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img_gavetas-de-dinheiro/icon_segunranca.png (from clonemultimac.local/gavetasdedinheiro/)
+22:59:27	Warning: 	Moved Permanently for clonemultimac.local/?p=54
+22:59:27	Warning: 	File has moved from clonemultimac.local/?p=54 to http://clonemultimac.local/unibind/
+22:59:27	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-unibind/logo_unibind.png (from clonemultimac.local/unibind/)
+22:59:30	Warning: 	Moved Permanently for clonemultimac.local/?p=42
+22:59:30	Warning: 	File has moved from clonemultimac.local/?p=42 to http://clonemultimac.local/servico/
+22:59:30	Warning: 	Moved Permanently for clonemultimac.local/?p=52
+22:59:30	Warning: 	File has moved from clonemultimac.local/?p=52 to http://clonemultimac.local/suporte/
+22:59:30	Warning: 	Moved Permanently for clonemultimac.local/?p=18
+22:59:30	Warning: 	File has moved from clonemultimac.local/?p=18 to http://clonemultimac.local/ciberseguranca/
+22:59:30	Warning: 	Moved Permanently for clonemultimac.local/?p=30
+22:59:30	Warning: 	File has moved from clonemultimac.local/?p=30 to http://clonemultimac.local/gestao/
+22:59:30	Warning: 	Moved Permanently for clonemultimac.local/?p=44
+22:59:30	Warning: 	File has moved from clonemultimac.local/?p=44 to http://clonemultimac.local/sobre/
+22:59:30	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-sobre/image4.png (from clonemultimac.local/sobre/)
+22:59:33	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-sobre/certificacao2.png (from clonemultimac.local/sobre/)
+22:59:38	Warning: 	Moved Permanently for clonemultimac.local/?p=32
+22:59:38	Warning: 	File has moved from clonemultimac.local/?p=32 to http://clonemultimac.local/noticias/
+22:59:38	Warning: 	Moved Permanently for clonemultimac.local/?p=16
+22:59:38	Warning: 	File has moved from clonemultimac.local/?p=16 to http://clonemultimac.local/bilhetica/
+22:59:38	Warning: 	Moved Permanently for clonemultimac.local/?p=50
+22:59:38	Warning: 	File has moved from clonemultimac.local/?p=50 to http://clonemultimac.local/solucoesdocumentais/
+22:59:38	Warning: 	Moved Permanently for clonemultimac.local/?p=26
+22:59:38	Warning: 	File has moved from clonemultimac.local/?p=26 to http://clonemultimac.local/design/
+22:59:38	Warning: 	Moved Permanently for clonemultimac.local/?p=22
+22:59:38	Warning: 	File has moved from clonemultimac.local/?p=22 to http://clonemultimac.local/consultoria/
+22:59:38	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-consultadoria/image4.png (from clonemultimac.local/consultoria/)
+23:00:06	Error: 	"Not Found" (404) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/img/cardbackground-tec1.png (from clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/servico.css?ver=1.0.0)
+23:00:06	Error: 	"Not Found" (404) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/img/cardbackground-2.png (from clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/servico.css?ver=1.0.0)
+23:00:06	Error: 	"Not Found" (404) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/img/cardbackground-3.png (from clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/servico.css?ver=1.0.0)
+23:00:06	Error: 	"Not Found" (404) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/img/cardbackground-4.png (from clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/css/servico.css?ver=1.0.0)
+23:00:06	Warning: 	Retry after error -4 (No data (connection closed)) at link clonemultimac.local/wp-content/themes/ProjetoMultimac/assets/img/img-consultadoria/image4.png (from clonemultimac.local/consultoria/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 minutes 43 seconds : 487 links scanned, 440 files written (79482473 bytes overall) [78121110 bytes received at 24698 bytes/sec], 2570684 bytes transferred using HTTP compression in 173 files, ratio 23%, 4.5 requests per connection
+(9 errors, 58 warnings, 0 messages)
